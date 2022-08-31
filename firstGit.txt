@@ -1,1 +1,2 @@
 Hello World
+My name is Manikant Singh and i am learning how to use git.
